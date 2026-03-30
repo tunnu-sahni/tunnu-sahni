@@ -1,6 +1,6 @@
 # Hi 👋, I'm tunnu sahni
 
-### python deceloper
+### python developer
 
 - 🔭 I'm currently working on **dsa project**
 
