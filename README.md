@@ -2,9 +2,9 @@
 
 ### python developer
 
-- 🔭 I'm currently working on **dsa project**
+- 🔭 I'm currently working on **deep learning project**
 
-- 🌱 I'm currently learning **dsa**
+- 🌱 I'm currently learning **deep learning**
 
 - 👯 I'm looking to collaborate on **linkedin**
 
